@@ -305,7 +305,7 @@ paths:
               schema:
                 type: object
               example:
-                status:	success
+                status: success
                 challenges:
                   - id: 1
                     challengeName: Challenge 1
